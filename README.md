@@ -26,6 +26,7 @@
 知识库/化学/素材与拓展/真题试卷/      # 2025.10 广州三校月考真题原卷+解析 PDF
 build_site.py                       # 构建脚本：Markdown -> docs/ 静态网站
 build_print_pack.py                 # 打印包生成器：知识卡 -> 打印包/国庆打印包_化学.pdf
+build_preview.py                    # 预览拼图生成器：打印包 PDF -> 打印包/预览_contact-sheet.png
 打印包/                             # 打印包 PDF + 预览拼图
 docs/                               # 生成的网站（GitHub Pages 发布此目录）
 package.json                        # 本地预览：npm run dev
