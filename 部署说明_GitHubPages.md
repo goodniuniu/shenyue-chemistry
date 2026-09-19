@@ -12,7 +12,7 @@
 在项目文件夹中执行（已装 Git 的情况下）：
 
 ```bash
-cd "E:\MyOutput\AI_Project\申悦学校-AI指导化学学习"
+cd "E:\MyOutput\AI_Project\申悦学习-AI指导化学学习"
 git remote add origin https://github.com/<你的用户名>/shenyue-chemistry.git
 git push -u origin main
 ```
